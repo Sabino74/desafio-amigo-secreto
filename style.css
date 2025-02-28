@@ -31,7 +31,6 @@ body {
     max-width: 900px;
 }
 
-/* Banner */
 .header-banner {
     flex: 40%;
     display: flex;
@@ -65,7 +64,7 @@ body {
     margin: 10px 0;
     text-align: center;
 }
-/* Contêineres de entrada e botão */
+
 .input-wrapper {
     display: flex;
     justify-content: center;
